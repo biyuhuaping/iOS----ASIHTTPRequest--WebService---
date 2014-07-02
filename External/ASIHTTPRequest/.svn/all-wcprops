@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/iboxpay_iphone/!svn/ver/2358/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/iboxpay_iphone/!svn/ver/1136/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/iboxpay_iphone/!svn/ver/942/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/iboxpay_iphone/!svn/ver/1136/trunk/iBoxPay/iboxpayrelease/External/ASIHTTPRequest/ASIDataCompressor.m
+END
